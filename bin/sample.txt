@@ -1,0 +1,5 @@
+CPU,GPU,Motherboard,RAM,PSP,Computer,SSD,Keyboard,Monitor,Mouse N = 10
+Battery,Axle,Vehicle,Brakes,Compressor,Muffler,Transmission,Engine,Steering,Wheels,Break N = 11
+Blender,Oven,Mixer,Grill,Kitchen,Fryer,Cocker,Grinder,Refrigerator N = 9
+Brush,Typewriter,Pen,Pencil,Desk,Copier,Laminator,Seat,Office N = 9
+Apple,Fruit,Banana,Plumb,Apricot,Lime,Grape,Ananas,Carot,Pear N = 10
